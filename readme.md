@@ -18,7 +18,7 @@ These files are created with the `fast-agent setup` and `fast-agent bootstrap wo
 
 ## 1.prompts
 
-A demonstration of MCP Prompts and Resources showing in context learning and a PDF Resource being returned within a prompt. fast-agents built in `prompt-server` is used to deliver the prompts to the agent.
+A demonstration of MCP Prompts and Resources showing in context learning and a PDF Resource being returned within a prompt. fast-agent's built in `prompt-server` is used to deliver the prompts to the agent.
 
 ## 2. resource-sampling
 
