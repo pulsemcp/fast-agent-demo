@@ -1,0 +1,11 @@
+logger:
+  level: "error"
+  type: "file"
+  progress_display: false
+  
+
+mcp:
+  servers:
+    prompt_server:
+      command: "prompt-server"
+      args: ["sizing.txt", "sizing_imperial.txt", "pdf_summarize.txt"]

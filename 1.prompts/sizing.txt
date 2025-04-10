@@ -1,0 +1,24 @@
+---USER
+how big is the moon?
+
+---ASSISTANT
+OBJECT: MOON
+SIZE: 3,474.8
+UNITS: KM
+
+---USER
+Earth?
+
+---ASSISTANT
+OBJECT: EARTH
+SIZE: 12,742
+UNITS: KM
+
+---USER
+A tiger
+
+---ASSISTANT
+OBJECT: TIGER
+SIZE: 1.2
+UNITS: M
+TYPE: ANIMAL

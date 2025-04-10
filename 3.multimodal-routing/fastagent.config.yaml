@@ -1,0 +1,26 @@
+default_model: sonnet
+
+# on windows, adjust the mount point to be the full path e.g. x:/temp/data-analysis/mount-point:/mnt/data/
+
+mcp:
+  servers:
+    mcp_webcam:
+      command: "npx"
+      args: ["@llmindset/mcp-webcam"]
+      sampling:
+        model: "gpt-4o"
+    mcp_hfspace:
+      command: "npx"
+      args: ["@llmindset/mcp-hfspace","--work-dir",".","shuttleai/shuttle-jaguar"]
+    fetch:
+      command: "uvx"
+      args: ["mcp-server-fetch"]
+    brave:
+      command: "npx"
+      args: ["-y", "@modelcontextprotocol/server-brave-search"]
+    hass:
+      transport: sse
+      url: http://192.168.5.9:8123/mcp_server/sse
+    prompts:
+      command: "prompt-server"
+      args: ["hass.py"]

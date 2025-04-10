@@ -1,0 +1,5 @@
+---USER
+Please summarise this PDF.
+---RESOURCE
+sample.pdf
+

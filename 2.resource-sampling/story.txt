@@ -1,0 +1,32 @@
+---USER
+Summarize the content of this story
+---RESOURCE
+{
+  "type": "resource",
+  "resource": {
+    "uri": "resource://fast-agent/short-story/space-adventure",
+    "mimeType": "text/plain",
+    "text": "Here's a short space adventure story:\n\nThe Forgotten Signal\n\nCaptain Elena Rodriguez gripped the controls of the starship Horizon, her eyes fixed on the swirling nebula ahead. After three years of deep space exploration, they had finally picked up an unusual signal from beyond the cosmic dust.\n\n\"Readings are strange,\" her navigation officer, Zhang, called out. \"It's not like anything in our database.\"\n\nThe ship's AI hummed softly, translating the electromagnetic waves. Suddenly, a burst of light erupted from the nebula's center, momentarily blinding the crew.\n\nWhen their vision cleared, they saw it: an ancient spacecraft, unlike any design they'd ever encountered. Its metallic surface was etched with intricate symbols that seemed to pulse with an inner light.\n\n\"Are you receiving this?\" Elena whispered, her heart racing.\n\nAs they approached, the alien vessel's hull began to shimmer. A transmission crackled through their communication systems - not in words, but in a series of complex mathematical equations that hinted at knowledge beyond human comprehension.\n\nThey were about to make first contact, and nothing would ever be the same again.\n\nWould you like me to elaborate on any part of the story?"
+  }
+}
+---ASSISTANT
+Summarize the content of this story
+Here's a short space adventure story:
+
+The Forgotten Signal
+
+Captain Elena Rodriguez gripped the controls of the starship Horizon, her eyes fixed on the swirling nebula ahead. After three years of deep space exploration, they had finally picked up an unusual signal from beyond the cosmic dust.
+
+"Readings are strange," her navigation officer, Zhang, called out. "It's not like anything in our database."
+
+The ship's AI hummed softly, translating the electromagnetic waves. Suddenly, a burst of light erupted from the nebula's center, momentarily blinding the crew.
+
+When their vision cleared, they saw it: an ancient spacecraft, unlike any design they'd ever encountered. Its metallic surface was etched with intricate symbols that seemed to pulse with an inner light.
+
+"Are you receiving this?" Elena whispered, her heart racing.
+
+As they approached, the alien vessel's hull began to shimmer. A transmission crackled through their communication systems - not in words, but in a series of complex mathematical equations that hinted at knowledge beyond human comprehension.
+
+They were about to make first contact, and nothing would ever be the same again.
+
+Would you like me to elaborate on any part of the story?

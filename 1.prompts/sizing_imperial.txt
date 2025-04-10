@@ -1,0 +1,24 @@
+---USER
+how big is the moon?
+
+---ASSISTANT
+OBJECT: MOON
+SIZE: 2,159
+UNITS: MILES
+
+---USER
+Earth?
+
+---ASSISTANT
+OBJECT: EARTH
+SIZE: 7,917
+UNITS: MILES
+
+---USER
+A tiger
+
+---ASSISTANT
+OBJECT: TIGER
+SIZE: 3.9
+UNITS: feet
+TYPE: ANIMAL
